@@ -1,6 +1,6 @@
 # WebP by Perfecten
 
-![WebP by Perfecten](images/blueflamingo-webp-banner.svg)
+![WebP by Perfecten](images/plugin-banner.svg)
 
 Plugin profesional para WordPress desarrollado para **Perfecten**. Convierte imagenes subidas a formato WebP de manera segura, optimiza el peso final y agrega un panel propio dentro del admin de WordPress.
 
@@ -36,7 +36,7 @@ webp-plugin/
 |-- index.php
 |-- images/
 |   |-- index.php
-|   `-- blueflamingo-webp-banner.svg
+|   `-- plugin-banner.svg
 |-- README.md
 `-- webp-by-perfecten.php
 ```
