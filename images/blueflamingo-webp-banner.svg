@@ -1,0 +1,28 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" fill="#0B1320"/>
+  <rect x="56" y="56" width="1168" height="528" rx="32" fill="url(#paint0_linear)"/>
+  <circle cx="1040" cy="172" r="118" fill="#FF7A59" fill-opacity="0.18"/>
+  <circle cx="948" cy="442" r="164" fill="#1CC8A0" fill-opacity="0.16"/>
+  <rect x="120" y="130" width="220" height="220" rx="28" fill="#08111C" fill-opacity="0.78"/>
+  <path d="M188 302C227.765 302 260 269.765 260 230C260 190.235 227.765 158 188 158C148.235 158 116 190.235 116 230C116 269.765 148.235 302 188 302Z" fill="#FF7A59"/>
+  <path d="M216 194C210.4 171.6 191.333 158.667 182.5 155L196.5 208L216 194Z" fill="#FFD7CF"/>
+  <path d="M162 251C182.542 251 199.2 234.342 199.2 213.8C199.2 193.258 182.542 176.6 162 176.6C141.458 176.6 124.8 193.258 124.8 213.8C124.8 234.342 141.458 251 162 251Z" fill="#08111C"/>
+  <path d="M204 311C188.4 287 163.5 274.333 153 271L180.5 329L204 311Z" fill="#FF7A59"/>
+  <text x="388" y="228" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="700">Perfecten</text>
+  <text x="388" y="304" fill="#D6E3F0" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="600">WebP Optimizer</text>
+  <text x="388" y="382" fill="#A9B8C8" font-family="Segoe UI, Arial, sans-serif" font-size="28">
+    Safe WebP conversion for WordPress uploads
+  </text>
+  <rect x="390" y="432" width="236" height="62" rx="31" fill="#1CC8A0"/>
+  <text x="459" y="472" fill="#08111C" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Perfecten</text>
+  <rect x="648" y="432" width="188" height="62" rx="31" fill="#FF7A59"/>
+  <text x="708" y="472" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">WordPress</text>
+  <rect x="858" y="432" width="132" height="62" rx="31" fill="#08111C" fill-opacity="0.7" stroke="#2D4257"/>
+  <text x="896" y="472" fill="#D6E3F0" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">WebP</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="128" y1="80" x2="1158" y2="564" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122032"/>
+      <stop offset="1" stop-color="#0F1A29"/>
+    </linearGradient>
+  </defs>
+</svg>
